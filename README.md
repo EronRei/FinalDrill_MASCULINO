@@ -14,9 +14,6 @@ Create a virtual environment (optional but recommended) by running the following
 
 python -m venv env
 Activate the virtual environment:
-
-For Windows:
-bash
 Copy code
 env\Scripts\activate
 python app.py
